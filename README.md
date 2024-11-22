@@ -60,7 +60,8 @@
 
 ---
 
-🌟 Projects  
+🌟 Projects
+
 **My portfolio**  
 **Description**: This is my personal portfolio website showcasing my skills, projects, and experience. Feel free to visit and explore my professional work.  
 **Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Email.js  
