@@ -80,17 +80,6 @@
 
 ---
 
-## 🗨️ Diller  
-- Azerbaijani:   
-- İngilizce: [Seviye]  
-- [Diğer diller]: [Seviye]  
-
----
-
-## 🏆 Ödüller ve Başarılar  
-- [Ödül veya başarı adını yazın ve açıklama ekleyin]  
-- [Başka bir başarı ekleyebilirsiniz]  
-
----
-
-Bu şablon üzerinde kişisel bilgilerinizi ve deneyimlerinizi düzenleyebilirsiniz. Eğer bir repoda kullanacaksanız, `README.md` dosyasına ekleyip GitHub’a yükleyebilirsiniz. Markdown dilinin desteklediği tablo, resim ve ikonları da ekleyerek daha etkileyici hale getirebilirsiniz.
+🗨️ Languages  
+- Azerbaijani: Native  
+- English: B2  
