@@ -33,8 +33,8 @@
 - Creation of responsive projects using HTML5, CSS3, SCSS, React.js, JavaScript and other libraries.
 
 **OKmedia LLC**  
-**Position**: Front-End Developer-intern 
-**Dates**: 07.2023 - 12.2023  
+**Position**: Front-End Developer-intern       
+**Dates**: 07.2023 - 12.2023          
 **Responsibilities**:  
 - Preparation of websites for various companies in Azerbaijan;  
 - Development of responsive websites using HTML5, CSS3, Bootstrap 5, jQuery, JavaScript, and other libraries.  
