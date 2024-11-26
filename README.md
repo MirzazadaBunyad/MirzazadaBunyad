@@ -2,7 +2,7 @@
 
 **Position**: Frontend Developer | React Developer | Mobile Developer 
 **Location**: Baku, Azerbaijan  
-**Contact**: bunyadmirzazada@gmail.com | +994 50 940 97 02 | www.linkedin.com/in/bunyadmirzazada/ | www.bunyadmirzazada.com  
+**Contact**: bunyadmirzazada@gmail.com | +994 50 970 97 02 | www.linkedin.com/in/bunyadmirzazada/ | www.bunyadmirzazada.com  
 
 ---
 
@@ -74,7 +74,7 @@
 
 **Starbucks**  
 **Description**: This is a demo project that I developed, featuring a simulated Starbucks website. It showcases my skills in web development and design, serving as a project example to demonstrate my abilities.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux Toolkit
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux Toolkit     
 **Link**: https://starbucks-proj.vercel.app/  
 
 **You can explore my other projects by visiting my portfolio website or checking out my GitHub profile.**
