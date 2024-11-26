@@ -26,14 +26,14 @@
 - Corporate mail services. 
 
 **Interneuron**  
-**Position**: Front-End Developer  
+**Position**: Frontend Developer  
 **Dates**: 11.2023 - 08.2024  
 **Responsibilities**:  
 - Development of AI-based chatbots and websites;  
 - Creation of responsive projects using HTML5, CSS3, SCSS, React.js, JavaScript and other libraries.
 
 **OKmedia LLC**  
-**Position**: Front-End Developer-intern       
+**Position**: Frontend Developer - intern       
 **Dates**: 07.2023 - 12.2023          
 **Responsibilities**:  
 - Preparation of websites for various companies in Azerbaijan;  
@@ -54,7 +54,7 @@
   2016 - 2020
 
 - **Certifications**  
-  - Front-End Development - Div Academy  
+  - Frontend Development - Div Academy  
   - Master 1 - volunteer - ASAN Service
   - You can view the certificates I obtained from Udemy and other online platforms on my LinkedIn profile.  
 
