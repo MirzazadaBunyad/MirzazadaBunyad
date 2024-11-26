@@ -8,7 +8,7 @@
 
 🛠️ Technical Skills  
 - **Frontend Technologies**: HTML5, CSS3, JavaScript, React.js, Redux Toolkit, Next.js etc.
-- **Styling Frameworks:**: Tailwind CSS, Bootstrap 5, Material UI, Ant Design, Chackra UI etc.  
+- **Styling Frameworks**: Tailwind CSS, Bootstrap 5, Material UI, Ant Design, Chackra UI etc.  
 - **Mobile Development**: React Native  
 - **Others**: Git, Zustand, i18n, JSON, MongoDB etc. 
 
