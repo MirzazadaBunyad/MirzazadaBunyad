@@ -1,7 +1,7 @@
 📄 Bunyad Mirzazada - CV
 
-**Position**: Frontend Developer | React Developer | Mobile Developer 
-**Location**: Baku, Azerbaijan  
+**Position**: Frontend Developer | React Developer | Mobile Developer   
+**Location**: Baku, Azerbaijan     
 **Contact**: bunyadmirzazada@gmail.com | +994 50 970 97 02 | www.linkedin.com/in/bunyadmirzazada/ | www.bunyadmirzazada.com  
 
 ---
@@ -82,5 +82,15 @@
 ---
 
 🗨️ Languages  
+
 - Azerbaijani: Native  
-- English: B2  
+- English: B2
+  
+---
+
+😎 HackerRank  
+
+**Profile**: www.hackerrank.com/profile/mirzazadeb  
+**Achievements**:
+- Completed several coding challenges in JavaScript, React.js, and Data Structures.
+- Regularly solve algorithm-based problems to improve coding skills and performance under competitive conditions.
