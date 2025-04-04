@@ -2,7 +2,7 @@
 
 **Position**: Frontend Developer | React Developer | Mobile Developer   
 **Location**: Baku, Azerbaijan     
-**Contact**: bunyadmirzazada@gmail.com | +994 50 970 97 02 | www.linkedin.com/in/bunyadmirzazada/ | www.bunyadmirzazada.com  
+**Contact**: bunyadmirzazada@gmail.com | +994 50 970 97 02 | www.linkedin.com/in/bunyadmirzazada/ | www.bunyad.site  
 
 ---
 
