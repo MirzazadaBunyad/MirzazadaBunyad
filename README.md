@@ -65,7 +65,7 @@
 **My portfolio**  
 **Description**: This is my personal portfolio website showcasing my skills, projects, and experience. Feel free to visit and explore my professional work.  
 **Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Email.js  
-**Link**: www.bunyadmirzazada.com  
+**Link**: www.bunyad.site  
 
 **NEO Translations**  
 **Description**: I developed this website for Neo Translations, a company providing translation and IT services. The site showcases the company's services, including website development, technical support, and corporate mail solutions.  
